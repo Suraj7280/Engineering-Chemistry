@@ -16,7 +16,7 @@ export default class Unit4 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={600}>
-                <Image source={require('./C4/1.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C4/a.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View>
             <View>
@@ -24,7 +24,7 @@ export default class Unit4 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={600}>
-                <Image source={require('./C4/2.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C4/b.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View> 
             <View>
@@ -32,7 +32,7 @@ export default class Unit4 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={600}>
-                <Image source={require('./C4/3.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C4/c.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View> 
             <View>
@@ -40,7 +40,7 @@ export default class Unit4 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={600}>
-                <Image source={require('./C4/4.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C4/d.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View> 
             <View>
@@ -48,7 +48,7 @@ export default class Unit4 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={600}>
-                <Image source={require('./C4/5.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C4/e.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View> 
             <View>
@@ -56,7 +56,7 @@ export default class Unit4 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={600}>
-                <Image source={require('./C4/6.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C4/f.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View> 
             <View>
@@ -64,7 +64,7 @@ export default class Unit4 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={360}
                        imageHeight={295}>
-                <Image source={require('./C4/7.png')} style={{height:295,width:360,marginTop:1}} />   
+                <Image source={require('./C4/g.png')} style={{height:295,width:360,marginTop:1}} />   
             </ImageZoom>
             </View> 
             <View>
@@ -72,7 +72,7 @@ export default class Unit4 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={600}>
-                <Image source={require('./C4/8.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C4/h.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View> 
             <View>
@@ -80,7 +80,7 @@ export default class Unit4 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={600}>
-                <Image source={require('./C4/9.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C4/i.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View> 
             <View>
@@ -88,7 +88,7 @@ export default class Unit4 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={600}>
-                <Image source={require('./C4/10.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C4/j.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View> 
             <View>
@@ -96,7 +96,7 @@ export default class Unit4 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={600}>
-                <Image source={require('./C4/11.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C4/k.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View> 
             <View>
@@ -104,7 +104,7 @@ export default class Unit4 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={600}>
-                <Image source={require('./C4/12.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C4/l.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View> 
             <View>
@@ -112,7 +112,7 @@ export default class Unit4 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={600}>
-                <Image source={require('./C4/13.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C4/m.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View> 
             <View>
@@ -120,7 +120,7 @@ export default class Unit4 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={600}>
-                <Image source={require('./C4/14.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C4/n.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View> 
             <View>
@@ -128,7 +128,7 @@ export default class Unit4 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={600}>
-                <Image source={require('./C4/15.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C4/o.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View> 
             <View>
@@ -136,7 +136,7 @@ export default class Unit4 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={600}>
-                <Image source={require('./C4/16.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C4/p.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View> 
             <View>
@@ -144,7 +144,7 @@ export default class Unit4 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={600}>
-                <Image source={require('./C4/17.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C4/q.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View> 
             <View>
@@ -152,7 +152,7 @@ export default class Unit4 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={600}>
-                <Image source={require('./C4/18.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C4/r.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View> 
             <View>
@@ -160,7 +160,7 @@ export default class Unit4 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={600}>
-                <Image source={require('./C4/19.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C4/s.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View> 
             <View>
@@ -168,7 +168,7 @@ export default class Unit4 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={600}>
-                <Image source={require('./C4/20.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C4/t.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View> 
             <View>
@@ -176,7 +176,7 @@ export default class Unit4 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={600}>
-                <Image source={require('./C4/21.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C4/u.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View> 
             <View>
@@ -184,7 +184,7 @@ export default class Unit4 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={600}>
-                <Image source={require('./C4/22.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C4/v.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View> 
             <View>
@@ -192,7 +192,7 @@ export default class Unit4 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={600}>
-                <Image source={require('./C4/23.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C4/w.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View> 
            </ScrollView>

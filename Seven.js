@@ -16,7 +16,7 @@ export default class Seven extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={600}>
-                <Image source={require('./2017/1.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./2017/a.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View>
             <View>
@@ -24,7 +24,7 @@ export default class Seven extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={600}>
-                <Image source={require('./2017/2.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./2017/b.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View> 
            </ScrollView>

@@ -16,7 +16,7 @@ export default class Second extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={600}>
-                <Image source={require('./2012/1.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./2012/a.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View>
             <View>
@@ -24,7 +24,7 @@ export default class Second extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={600}>
-                <Image source={require('./2012/2.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./2012/b.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View> 
             <View style={{flex:30,marginTop:3,left:"1%",flexDirection: "column",}}>
@@ -32,7 +32,7 @@ export default class Second extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={600}>
-                <Image source={require('./2012/3.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./2012/c.png')} style={{height:530,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View>
            </ScrollView>

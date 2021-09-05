@@ -16,7 +16,7 @@ export default class Unit1 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={590}>
-                <Image source={require('./C1/1.png')} style={{height:500,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C1/a.png')} style={{height:500,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View>
             <View style={{flex:30,marginTop:3,left:"1%",flexDirection: "column",}}>
@@ -24,7 +24,7 @@ export default class Unit1 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={590}>
-                <Image source={require('./C1/2.png')} style={{height:500,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C1/b.png')} style={{height:500,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View>
             <View style={{flex:30,marginTop:3,left:"1%",flexDirection: "column",}}>
@@ -32,7 +32,7 @@ export default class Unit1 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={590}>
-                <Image source={require('./C1/3.png')} style={{height:500,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C1/c.png')} style={{height:500,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View>
             <View style={{flex:30,marginTop:3,left:"1%",flexDirection: "column",}}>
@@ -40,7 +40,7 @@ export default class Unit1 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={590}>
-                <Image source={require('./C1/4.png')} style={{height:500,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C1/d.png')} style={{height:500,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View>
             <View style={{flex:30,marginTop:3,left:"1%",flexDirection: "column",}}>
@@ -48,7 +48,7 @@ export default class Unit1 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={590}>
-                <Image source={require('./C1/5.png')} style={{height:500,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C1/e.png')} style={{height:500,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View>
             <View style={{flex:30,marginTop:3,left:"1%",flexDirection: "column",}}>
@@ -56,7 +56,7 @@ export default class Unit1 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={590}>
-                <Image source={require('./C1/6.png')} style={{height:500,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C1/f.png')} style={{height:500,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View>
             <View style={{flex:30,marginTop:3,left:"1%",flexDirection: "column",}}>
@@ -64,7 +64,7 @@ export default class Unit1 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={370}
                        imageHeight={580}>
-                <Image source={require('./C1/7.png')} style={{height:510,width:390,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C1/g.png')} style={{height:510,width:390,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View>
             <View style={{flex:30,marginTop:3,left:"1%",flexDirection: "column",}}>
@@ -72,7 +72,7 @@ export default class Unit1 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={590}>
-                <Image source={require('./C1/8.png')} style={{height:500,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C1/h.png')} style={{height:500,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View>
             <View style={{flex:30,marginTop:3,left:"1%",flexDirection: "column",}}>
@@ -80,7 +80,7 @@ export default class Unit1 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={590}>
-                <Image source={require('./C1/9.png')} style={{height:500,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C1/i.png')} style={{height:500,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View>
             <View style={{flex:30,marginTop:3,left:"1%",flexDirection: "column",}}>
@@ -88,7 +88,7 @@ export default class Unit1 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={590}>
-                <Image source={require('./C1/10.png')} style={{height:500,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C1/j.png')} style={{height:500,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View>
             <View style={{flex:30,marginTop:3,left:"1%",flexDirection: "column",}}>
@@ -96,7 +96,7 @@ export default class Unit1 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={590}>
-                <Image source={require('./C1/11.png')} style={{height:500,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C1/k.png')} style={{height:500,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View>
             <View style={{flex:30,marginTop:3,left:"1%",flexDirection: "column",}}>
@@ -104,29 +104,14 @@ export default class Unit1 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={380}
                        imageHeight={590}>
-                <Image source={require('./C1/12.png')} style={{height:500,width:370,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C1/l.png')} style={{height:500,width:370,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             <View style={{flex:30,marginTop:3,left:"1%",flexDirection: "column",}}>
             <ImageZoom cropWidth={Dimensions.get('window').width}
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={370}
                        imageHeight={590}>
-                <Image source={require('./C1/13.png')} style={{height:500,width:360,marginTop:1}} />   
-            </ImageZoom>
-            </View>
-            <View style={{flex:30,marginTop:3,left:"1%",flexDirection: "column",}}>
-            <ImageZoom cropWidth={Dimensions.get('window').width}
-                       cropHeight={Dimensions.get('window').height}
-                       imageWidth={370}
-                       imageHeight={590}>
-                <Image source={require('./C1/14.png')} style={{height:500,width:360,marginTop:1}} />   
-            </ImageZoom>
-            <View style={{flex:30,marginTop:3,left:"1%",flexDirection: "column",}}>
-            <ImageZoom cropWidth={Dimensions.get('window').width}
-                       cropHeight={Dimensions.get('window').height}
-                       imageWidth={370}
-                       imageHeight={590}>
-                <Image source={require('./C1/15.png')} style={{height:500,width:360,marginTop:1}} />   
+                <Image source={require('./C1/m.png')} style={{height:500,width:360,marginTop:1}} />   
             </ImageZoom>
             </View>
             <View style={{flex:30,marginTop:3,left:"1%",flexDirection: "column",}}>
@@ -134,7 +119,14 @@ export default class Unit1 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={370}
                        imageHeight={590}>
-                <Image source={require('./C1/16.png')} style={{height:500,width:360,marginTop:1}} />   
+                <Image source={require('./C1/n.png')} style={{height:500,width:360,marginTop:1}} />   
+            </ImageZoom>
+            <View style={{flex:30,marginTop:3,left:"1%",flexDirection: "column",}}>
+            <ImageZoom cropWidth={Dimensions.get('window').width}
+                       cropHeight={Dimensions.get('window').height}
+                       imageWidth={370}
+                       imageHeight={590}>
+                <Image source={require('./C1/o.png')} style={{height:500,width:360,marginTop:1}} />   
             </ImageZoom>
             </View>
             <View style={{flex:30,marginTop:3,left:"1%",flexDirection: "column",}}>
@@ -142,7 +134,7 @@ export default class Unit1 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={370}
                        imageHeight={590}>
-                <Image source={require('./C1/17.png')} style={{height:500,width:360,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C1/p.png')} style={{height:500,width:360,marginTop:1}} />   
             </ImageZoom>
             </View>
             <View style={{flex:30,marginTop:3,left:"1%",flexDirection: "column",}}>
@@ -150,7 +142,7 @@ export default class Unit1 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={370}
                        imageHeight={590}>
-                <Image source={require('./C1/18.png')} style={{height:500,width:360,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C1/q.png')} style={{height:500,width:360,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View>
             <View style={{flex:30,marginTop:3,left:"1%",flexDirection: "column",}}>
@@ -158,14 +150,7 @@ export default class Unit1 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={370}
                        imageHeight={590}>
-                <Image source={require('./C1/19.png')} style={{height:500,width:360,left:"0.5%",marginTop:1}} />   
-            </ImageZoom>
-            <View style={{flex:30,marginTop:3,left:"1%",flexDirection: "column",}}>
-            <ImageZoom cropWidth={Dimensions.get('window').width}
-                       cropHeight={Dimensions.get('window').height}
-                       imageWidth={370}
-                       imageHeight={590}>
-                <Image source={require('./C1/20.png')} style={{height:500,width:360,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C1/r.png')} style={{height:500,width:360,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View>
             <View style={{flex:30,marginTop:3,left:"1%",flexDirection: "column",}}>
@@ -173,16 +158,22 @@ export default class Unit1 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={370}
                        imageHeight={590}>
-                <Image source={require('./C1/21.png')} style={{height:500,width:360,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C1/s.png')} style={{height:500,width:360,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
-            </View>
+            <View style={{flex:30,marginTop:3,left:"1%",flexDirection: "column",}}>
+            <ImageZoom cropWidth={Dimensions.get('window').width}
+                       cropHeight={Dimensions.get('window').height}
+                       imageWidth={370}
+                       imageHeight={590}>
+                <Image source={require('./C1/t.png')} style={{height:500,width:360,left:"0.5%",marginTop:1}} />   
+            </ImageZoom>
             </View>
             <View style={{flex:30,marginTop:3,left:"1%",flexDirection: "column",}}>
             <ImageZoom cropWidth={Dimensions.get('window').width}
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={370}
                        imageHeight={590}>
-                <Image source={require('./C1/22.png')} style={{height:500,width:360,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C1/u.png')} style={{height:500,width:360,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View>
             </View>
@@ -191,7 +182,7 @@ export default class Unit1 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={370}
                        imageHeight={590}>
-                <Image source={require('./C1/23.png')} style={{height:500,width:360,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C1/v.png')} style={{height:500,width:360,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View>
             </View>
@@ -200,7 +191,16 @@ export default class Unit1 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={370}
                        imageHeight={590}>
-                <Image source={require('./C1/24.png')} style={{height:500,width:360,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C1/w.png')} style={{height:500,width:360,left:"0.5%",marginTop:1}} />   
+            </ImageZoom>
+            </View>
+            </View>
+            <View style={{flex:30,marginTop:3,left:"1%",flexDirection: "column",}}>
+            <ImageZoom cropWidth={Dimensions.get('window').width}
+                       cropHeight={Dimensions.get('window').height}
+                       imageWidth={370}
+                       imageHeight={590}>
+                <Image source={require('./C1/x.png')} style={{height:500,width:360,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View>
             <View style={{flex:30,marginTop:3,left:"1%",flexDirection: "column",}}>
@@ -208,7 +208,7 @@ export default class Unit1 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={370}
                        imageHeight={590}>
-                <Image source={require('./C1/25.png')} style={{height:500,width:360,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C1/y.png')} style={{height:500,width:360,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View>
             <View style={{flex:30,marginTop:3,left:"1%",flexDirection: "column",}}>
@@ -216,7 +216,7 @@ export default class Unit1 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={370}
                        imageHeight={590}>
-                <Image source={require('./C1/26.png')} style={{height:500,width:360,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C1/z.png')} style={{height:500,width:360,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View>
             <View style={{flex:30,marginTop:3,left:"1%",flexDirection: "column",}}>
@@ -224,7 +224,7 @@ export default class Unit1 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={370}
                        imageHeight={590}>
-                <Image source={require('./C1/27.png')} style={{height:500,width:360,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C1/aa.png')} style={{height:500,width:360,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View>
             <View style={{flex:30,marginTop:3,left:"1%",flexDirection: "column",}}>
@@ -232,7 +232,7 @@ export default class Unit1 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={370}
                        imageHeight={590}>
-                <Image source={require('./C1/28.png')} style={{height:500,width:360,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C1/bb.png')} style={{height:500,width:360,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View>
             <View style={{flex:30,marginTop:3,left:"1%",flexDirection: "column",}}>
@@ -240,7 +240,7 @@ export default class Unit1 extends React.Component{
                        cropHeight={Dimensions.get('window').height}
                        imageWidth={370}
                        imageHeight={590}>
-                <Image source={require('./C1/29.png')} style={{height:500,width:360,left:"0.5%",marginTop:1}} />   
+                <Image source={require('./C1/cc.png')} style={{height:500,width:360,left:"0.5%",marginTop:1}} />   
             </ImageZoom>
             </View>
            </ScrollView>
